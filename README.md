@@ -5,7 +5,7 @@ v1.6 <br>
 
 pkg install python2<br>
 pkg install git<Br>
-git clone https://github.com/rezadkim/dark-fb<Br>
+git clone https://github.com/ZeDDParker/dark-fb<Br>
 cd dark-fb<br>
 python2 install.py<br>
 <br>
